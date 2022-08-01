@@ -1,4 +1,3 @@
-
 //this function remove the repeated elements of a sorted array 
 // Using Extra Space
 #include <stdio.h>
